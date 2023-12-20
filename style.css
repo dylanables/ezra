@@ -1,0 +1,16 @@
+*, body, html {
+    background-color: #333541;
+    color: #fff;
+    font-family: 'Roboto';
+}
+
+:root {
+    --card-width:150px;
+    --card-height: 225px;
+}
+
+main {
+    height: 55%;
+    display: flex;
+    justify-content: center;
+}
